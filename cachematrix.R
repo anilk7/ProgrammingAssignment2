@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+
 
 ## This function is used to set and get the matrix and it's inverse.
 
